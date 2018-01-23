@@ -397,130 +397,118 @@ File99=http://prem1.di.fm:80/vocaltrance_hi?336b5ceca1f94ff274f77d64
 Title99=Digitally Imported - Vocal Trance
 Length99=-1
 
-File100=http://ice.somafm.com/bagel-64.aac
+File100=http://ice1.somafm.com/bagel-128-aac
 Title100=SomaFM: BAGeL Radio: What alternative rock radio should sound like.
 Length100=-1
 
-File101=http://ice.somafm.com/beatblender-64.aac
+File101=http://ice1.somafm.com/beatblender-128-aac
 Title101=SomaFM: Beat Blender: A late night blend of deep-house and downtempo chill.
 Length101=-1
 
-File102=http://uwstream2.somafm.com:8048
+File102=http://ice1.somafm.com/brfm-128-aac
 Title102=SomaFM: Black Rock FM: From the Playa to the world, for the 2014 Burning Man festival.
 Length102=-1
 
-File103=http://uwstream2.somafm.com:2000
-Title103=SomaFM: Boot Liquor: Americana Roots music for Cowhands, Cowpokes and Cowtippers
+File103=http://ice1.somafm.com/cliqhop-128-aac
+Title103=SomaFM: cliqhop idm: Blips'n'beeps backed mostly w/beats. Intelligent Dance Music.
 Length103=-1
 
-File104=http://ice.somafm.com/cliqhop-64.aac
-Title104=SomaFM: cliqhop idm: Blips'n'beeps backed mostly w/beats. Intelligent Dance Music.
+File104=http://ice1.somafm.com/covers-128-aac
+Title104=SomaFM: Covers: Just covers. Songs you know by artists you don't. We've got you covered.
 Length104=-1
 
-File105=http://xstream1.somafm.com:8700
-Title105=SomaFM: Covers: Just covers. Songs you know by artists you don't. We've got you covered.
+File105=http://ice1.somafm.com/deepspaceone-128-aac
+Title105=SomaFM: Deep Space One: Deep ambient electronic, experimental and space music. A soundtrack for inner and outer space exploration.
 Length105=-1
 
-File106=http://ice.somafm.com/deepspaceone-64.aac
-Title106=SomaFM: Deep Space One: Deep ambient electronic, experimental and space music. A soundtrack for inner and outer space exploration.
+File106=http://ice1.somafm.com/defcon-128-aac
+Title106=SomaFM: DEF CON Radio: Music for Hacking. The DEF CON Year-Round Channel.
 Length106=-1
 
-File107=http://ice.somafm.com/defcon-64.aac
-Title107=SomaFM: DEF CON Radio: Music for Hacking. The DEF CON Year-Round Channel.
+File107=http://ice1.somafm.com/digitalis-128-aac
+Title107=SomaFM: Digitalis: Digitally affected analog rock to calm the agitated heart.
 Length107=-1
 
-File108=http://ice.somafm.com/digitalis-64.aac
-Title108=SomaFM: Digitalis: Digitally affected analog rock to calm the agitated heart.
+File108=http://ice1.somafm.com/dronezone-128-aac
+Title108=SomaFM: Drone Zone: Served best chilled, safe with most medications. Atmospheric textures with minimal beats.
 Length108=-1
 
-File109=http://ice.somafm.com/doomed-64.aac
-Title109=SomaFM: Doomed: Dark industrial/ambient music for tortured souls.
+File109=http://ice1.somafm.com/dubstep-128-aac
+Title109=SomaFM: Dub Step Beyond: Dubstep, Dub and Deep Bass. May damage speakers at high volume.
 Length109=-1
 
-File110=http://uwstream2.somafm.com:8100
-Title110=SomaFM: Drone Zone: Served best chilled, safe with most medications. Atmospheric textures with minimal beats.
+File110=http://ice1.somafm.com/fluid-128-aac
+Title110=SomaFM: Fluid: Drown in the electronic sound of instrumental hiphop, future soul, and liquid trap.
 Length110=-1
 
-File111=http://ice.somafm.com/dubstep-64.aac
-Title111=SomaFM: Dub Step Beyond: Dubstep, Dub and Deep Bass. May damage speakers at high volume.
+File111=http://ice1.somafm.com/folkfwd-128-aac
+Title111=SomaFM: Folk Forward: Indie Folk, Alt-folk and the occasional folk classics.
 Length111=-1
 
-File112=http://ice.somafm.com/earwaves-64.aac
-Title112=SomaFM: Earwaves: Spanning the history of electronic and experimental music from the early pioneers to the latest innovators.
+File112=http://ice1.somafm.com/groovesalad-128-aac
+Title112=SomaFM: Groove Salad: A nicely chilled plate of ambient/downtempo beats and grooves.
 Length112=-1
 
-File113=http://uwstream2.somafm.com:9196
-Title113=SomaFM: Fluid: Drown in the electronic sound of instrumental hiphop, future soul, and liquid trap.
+File113=http://ice1.somafm.com/illstreet-128-aac
+Title113=SomaFM: Illinois Street Lounge: Classic bachelor pad, playful exotica and vintage music of tomorrow.
 Length113=-1
 
-File114=http://ice.somafm.com/folkfwd-64.aac
-Title114=SomaFM: Folk Forward: Indie Folk, Alt-folk and the occasional folk classics.
+File114=http://ice1.somafm.com/indiepop-128-aac
+Title114=SomaFM: Indie Pop Rocks!: New and classic favorite indie pop tracks.
 Length114=-1
 
-File115=http://xstream1.somafm.com:3000
-Title115=SomaFM: Groove Salad: A nicely chilled plate of ambient/downtempo beats and grooves.
+File115=http://ice1.somafm.com/seventies-128-aac
+Title115=SomaFM: Left Coast 70s: Mellow album rock from the Seventies. Yacht Friendly.
 Length115=-1
 
-File116=http://xstream1.somafm.com:8504
-Title116=SomaFM: Illinois Street Lounge: Classic bachelor pad, playful exotica and vintage music of tomorrow.
+File116=http://ice1.somafm.com/lush-128-aac
+Title116=SomaFM: Lush: Sensuous and mellow vocals, mostly female, with an electronic influence.
 Length116=-1
 
-File117=http://xstream1.somafm.com:8070
-Title117=SomaFM: Indie Pop Rocks!: New and classic favorite indie pop tracks.
+File117=http://ice1.somafm.com/metal-128-aac
+Title117=SomaFM: Metal Detector: From black to doom, prog to sludge, thrash to post, stoner to crossover, punk to industrial. The metal will be detected.
 Length117=-1
 
-File118=http://uwstream3.somafm.com:9806
-Title118=SomaFM: Left Coast 70s: Mellow album rock from the Seventies. Yacht Friendly.
+File118=http://ice1.somafm.com/missioncontrol-128-aac
+Title118=SomaFM: Mission Control: Celebrating NASA and Space Explorers everywhere.
 Length118=-1
 
-File119=http://uwstream2.somafm.com:8808
-Title119=SomaFM: Lush: Sensuous and mellow vocals, mostly female, with an electronic influence.
+File119=http://ice1.somafm.com/poptron-128-aac
+Title119=SomaFM: PopTron!: Electropop and indie dance rock with sparkle and pop.
 Length119=-1
 
-File120=http://uwstream2.somafm.com:9296
-Title120=SomaFM: Metal Detector: From black to doom, prog to sludge, thrash to post, stoner to crossover, punk to industrial. The metal will be detected.
+File120=http://ice1.somafm.com/secretagent-128-aac
+Title120=SomaFM: Secret Agent: The soundtrack for your stylish, mysterious, dangerous life. For Spies and PIs too!
 Length120=-1
 
-File121=http://ice.somafm.com/missioncontrol-64.aac
-Title121=SomaFM: Mission Control: Celebrating NASA and Space Explorers everywhere.
+File121=http://ice1.somafm.com/7soul-128-aac
+Title121=SomaFM: Seven Inch Soul: Vintage soul tracks from the original 45 RPM vinyl.
 Length121=-1
 
-File122=http://ice.somafm.com/poptron-64.aac
-Title122=SomaFM: PopTron!: Electropop and indie dance rock with sparkle and pop.
+File122=http://ice1.somafm.com/sf1033-128-aac
+Title122=SomaFM: SF 10-33: Ambient music mixed with the sounds of San Francisco public safety radio traffic.
 Length122=-1
 
-File123=http://xstream1.somafm.com:9010
-Title123=SomaFM: Secret Agent: The soundtrack for your stylish, mysterious, dangerous life. For Spies and PIs too!
+File123=http://ice1.somafm.com/sonicuniverse-128-aac
+Title123=SomaFM: Sonic Universe: Transcending the world of jazz with eclectic, avant-garde takes on tradition.
 Length123=-1
 
-File124=http://ice.somafm.com/7soul-64.aac
-Title124=SomaFM: Seven Inch Soul: Vintage soul tracks from the original 45 RPM vinyl.
+File124=http://ice1.somafm.com/spacestation-128-aac
+Title124=SomaFM: Space Station Soma: Tune in, turn on, space out. Spaced-out ambient and mid-tempo electronica.
 Length124=-1
 
-File125=http://uwstream2.somafm.com:2040
-Title125=SomaFM: SF 10-33: Ambient music mixed with the sounds of San Francisco public safety radio traffic.
+File125=http://ice1.somafm.com/suburbsofgoa-128-aac
+Title125=SomaFM: Suburbs of Goa: Desi-influenced Asian world beats and beyond.
 Length125=-1
 
-File126=http://ice.somafm.com/sonicuniverse-64.aac
-Title126=SomaFM: Sonic Universe: Transcending the world of jazz with eclectic, avant-garde takes on tradition.
+File126=http://ice1.somafm.com/thistle-128-aac
+Title126=SomaFM: Thistle Radio: Exploring music from Celtic roots and branches
 Length126=-1
 
-File127=http://xstream1.somafm.com:8200
-Title127=SomaFM: Space Station Soma: Tune in, turn on, space out. Spaced-out ambient and mid-tempo electronica.
+File127=http://ice1.somafm.com/thetrip-128-aac
+Title127=SomaFM: The Trip: Progressive house / trance. Tip top tunes.
 Length127=-1
 
-File128=http://uwstream2.somafm.com:8854
-Title128=SomaFM: Suburbs of Goa: Desi-influenced Asian world beats and beyond.
+File138=http://ice1.somafm.com/u80s-128-aac
+Title128=SomaFM: Underground 80s: Early 80s UK Synthpop and a bit of New Wave.
 Length128=-1
-
-File129=http://xstream1.somafm.com:5202
-Title129=SomaFM: Thistle Radio: Exploring music from Celtic roots and branches
-Length129=-1
-
-File130=http://xstream1.somafm.com:2504
-Title130=SomaFM: The Trip: Progressive house / trance. Tip top tunes.
-Length130=-1
-
-File131=http://uwstream2.somafm.com:2406
-Title130=SomaFM: Underground 80s: Early 80s UK Synthpop and a bit of New Wave.
-Length130=-1
