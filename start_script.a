@@ -1,3 +1,4 @@
+yes | sudo cp -f /home/pi/pi-radio/pi-radio.pls /var/lib/mpd/playlists
 cd /var/lib/mpd/playlists
 mpc clear
 mpc load pi-radio.pls
