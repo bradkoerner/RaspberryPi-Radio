@@ -422,8 +422,8 @@ STATION = 3
 view = MAIN
 
 BBC_START = 0
-DI_START = 7
-SOMA_START = 98
+DI_START = 5
+SOMA_START = 96
 all_stations = open('stations.txt', 'r').read().split('\n')
 shown_stations = [0]*15
 
