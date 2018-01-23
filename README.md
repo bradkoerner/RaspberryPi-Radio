@@ -5,9 +5,7 @@ Primarily changed interface, added station menu so you don't have to seek throug
 
 Touch screen Internet streaming radio for the Raspberry Pi using the [Adafruit PiTFT 2.8" Touchscreen](https://adafruit.com/product/1601)
 
-[https://learn.adafruit.com/raspberry-pi-radio-player-with-touchscreen?view=all](The original uktechreviews tutorial for setting up and installing the Radio Player can be found here)
-
-mpc (music player client) and mpd (music player daemon) are required
+[The original uktechreviews tutorial for setting up and installing the Radio Player can be found here](https://learn.adafruit.com/raspberry-pi-radio-player-with-touchscreen?view=all)
 
 `pi-radio.pls` is a playlist file of internet radio streams
 `stations.txt` is the list of radio stations for display
