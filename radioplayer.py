@@ -184,6 +184,7 @@ def refresh_menu_screen():
 	lines=station.split(":")
 
 	if 'SomaFM' in station:
+		lines = station.split("[SomaFM]:")
 		st_line = lines[0]
 		st_line1 = 'somaFM'
 		st_line2 = lines[0].replace("from SomaFM.com","")
@@ -348,7 +349,7 @@ def station_list(start):
 	global shown_stations
 	i = 0
 	while i < 15:
-		if start == 128:
+		if start == STATION_COUNT:
 			start = 0
 		shown_stations[i] = start
 		i += 1
@@ -424,6 +425,7 @@ view = MAIN
 BBC_START = 0
 DI_START = 5
 SOMA_START = 96
+STATION_COUNT = 124
 all_stations = open('stations.txt', 'r').read().split('\n')
 shown_stations = [0]*15
 
